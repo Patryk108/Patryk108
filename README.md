@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact **I am musician but I like programming.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
